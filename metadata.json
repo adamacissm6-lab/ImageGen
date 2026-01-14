@@ -1,0 +1,5 @@
+{
+  "name": "Image Magic Editor",
+  "description": "An AI-powered image editing tool that allows you to remove objects or modify parts of your photos using simple text commands, powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
